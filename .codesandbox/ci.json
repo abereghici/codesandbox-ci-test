@@ -1,3 +1,5 @@
 {
-  "sandboxes": ["new", "vanilla"]
+  "buildCommand": "build",
+  "node": "12",
+  "sandboxes": ["/cra-template"]
 }
