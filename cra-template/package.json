@@ -1,0 +1,19 @@
+{
+  "name": "cra-template",
+  "description": "A template for Create React App.",
+  "license": "MIT",
+  "version": "1.0.0",
+  "sideEffects": false,
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "engines": {
+    "node": ">=12"
+  }
+}
